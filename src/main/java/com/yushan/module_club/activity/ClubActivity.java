@@ -8,6 +8,7 @@ import com.alibaba.android.arouter.facade.annotation.Route;
 import com.yushan.lib_base.base.BaseActivity;
 import com.yushan.module_club.R;
 
+
 @Route(path = "/module_club/ClubActivity")
 public class ClubActivity extends BaseActivity {
 
